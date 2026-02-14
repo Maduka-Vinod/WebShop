@@ -13,18 +13,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\wwwroot\\img\\Apple.jpeg",
-      "PackagePath": "staticwebassets\\img\\Apple.jpeg"
-    },
-    {
-      "Id": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\wwwroot\\img\\Huawei.jpeg",
-      "PackagePath": "staticwebassets\\img\\Huawei.jpeg"
-    },
-    {
-      "Id": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\wwwroot\\img\\ONE-PLUS.jpg",
-      "PackagePath": "staticwebassets\\img\\ONE-PLUS.jpg"
-    },
-    {
       "Id": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -255,10 +243,6 @@
     {
       "Id": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\wwwroot\\products20240516120928025.jpg",
-      "PackagePath": "staticwebassets\\products20240516120928025.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebShop.Microsoft.AspNetCore.StaticWebAssets.props",

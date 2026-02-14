@@ -134,3 +134,4 @@ D:\programming languages\.Net\Personal project\WebShop\WebShop\WebShop\obj\Debug
 D:\programming languages\.Net\Personal project\WebShop\WebShop\WebShop\obj\Debug\net8.0\WebShop.pdb
 D:\programming languages\.Net\Personal project\WebShop\WebShop\WebShop\obj\Debug\net8.0\WebShop.genruntimeconfig.cache
 D:\programming languages\.Net\Personal project\WebShop\WebShop\WebShop\obj\Debug\net8.0\ref\WebShop.dll
+D:\programming languages\.Net\Personal project\WebShop\WebShop\WebShop\obj\Debug\net8.0\WebShop.sourcelink.json

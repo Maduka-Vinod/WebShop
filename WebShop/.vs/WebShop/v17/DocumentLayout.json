@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|d:\\programming languages\\.net\\personal project\\webshop\\webshop\\webshop\\pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|d:\\programming languages\\.net\\personal project\\webshop\\webshop\\webshop\\pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|d:\\programming languages\\.net\\personal project\\webshop\\webshop\\webshop\\pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|d:\\programming languages\\.net\\personal project\\webshop\\webshop\\webshop\\pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|d:\\programming languages\\.net\\personal project\\webshop\\webshop\\webshop\\pages\\admin\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +19,12 @@
       "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|d:\\programming languages\\.net\\personal project\\webshop\\webshop\\webshop\\pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|d:\\programming languages\\.net\\personal project\\webshop\\webshop\\webshop\\pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|d:\\programming languages\\.net\\personal project\\webshop\\webshop\\webshop\\pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,35 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\Pages\\Admin\\Products\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Create.cshtml.cs",
               "ToolTip": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\Pages\\Admin\\Products\\Create.cshtml.cs",
               "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Create.cshtml.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAkwFIAAAA1AAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwFIAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T08:06:50.988Z"
+              "WhenOpened": "2024-05-16T08:06:50.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\Pages\\Admin\\Products\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Delete.cshtml.cs",
               "ToolTip": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\Pages\\Admin\\Products\\Delete.cshtml.cs",
               "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Delete.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA5AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wBQAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:54:54.349Z"
+              "WhenOpened": "2024-05-16T07:54:54.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\Pages\\Admin\\Products\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Delete.cshtml",
@@ -74,40 +76,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\Pages\\Admin\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Index.cshtml",
               "ToolTip": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\Pages\\Admin\\Products\\Index.cshtml",
               "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Index.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAABtAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T07:40:03.675Z"
+              "WhenOpened": "2024-05-16T07:40:03.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\Pages\\Admin\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Edit.cshtml",
               "ToolTip": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\Pages\\Admin\\Products\\Edit.cshtml",
               "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAiAAAA",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAGYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-16T07:16:40.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\Pages\\Admin\\Products\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Edit.cshtml.cs",
               "ToolTip": "D:\\programming languages\\.Net\\Personal project\\WebShop\\WebShop\\WebShop\\Pages\\Admin\\Products\\Edit.cshtml.cs",
               "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Edit.cshtml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:42:27.466Z"
+              "WhenOpened": "2024-05-16T06:42:27.466Z",
+              "EditorCaption": ""
             }
           ]
         }

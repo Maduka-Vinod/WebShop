@@ -33,7 +33,7 @@
                             <td>@product.Category</td>
                             <td>@product.Price</td>
                             <td>@product.CreatedAt.ToString("MM/dd/yyyy")</td>
-                            <td><img src="@product.ImageFileName" alt="@product.ImageFileName" style="width: 100px; height: 100px;" /></td>
+                            <td><img src="@product./products/ImageFileName" alt="@product.ImageFileName" style="width: 100px; height: 100px;" /></td>
                             <td>
                                 <a class=" btn btn-primary btn-sm" href="/Admin/Products/Edit?id=@product.Id">Edit</a>
                                 <a href="/Admin/Products/Delete?id=@product.Id" class="btn btn-danger">Delete</a>
